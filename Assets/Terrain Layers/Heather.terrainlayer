@@ -6,11 +6,11 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Pebbles_A_TerrainLayer
-  m_DiffuseTexture: {fileID: 2800000, guid: 5f61aa5f60d405a4b9f08becbe25d4c2, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: 00eadd7ea2cbbf14ca338babf410bdf4, type: 3}
-  m_MaskMapTexture: {fileID: 2800000, guid: 8abd4e7f6f86e8b4cb4820fea28b8f34, type: 3}
-  m_TileSize: {x: 1, y: 1}
+  m_Name: Heather
+  m_DiffuseTexture: {fileID: 2800000, guid: 87735acf16005914dba9087627517773, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: c8b8fa1b153cfd3428c4c5c2fded152e, type: 3}
+  m_MaskMapTexture: {fileID: 2800000, guid: 240efe9002d9e7a44b9f2a592f357102, type: 3}
+  m_TileSize: {x: 20, y: 20}
   m_TileOffset: {x: 0, y: 0}
   m_Specular: {r: 0, g: 0, b: 0, a: 0}
   m_Metallic: 0
